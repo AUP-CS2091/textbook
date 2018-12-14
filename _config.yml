@@ -22,7 +22,7 @@ email: ""
 description: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.inferentialthinking.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aup-cs2091.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################################
 # Jupyter Book settings
