@@ -8,5 +8,7 @@ The Foundations of Data Science
 
 Contributions by [David Wagner](https://www.cs.berkeley.edu/~daw/) and Henry Milner
 
+[View this textbook online on GitHub Pages.][ghpages]
+
 The contents of this book are licensed for free consumption under the following license:
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
